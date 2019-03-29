@@ -80,7 +80,11 @@ img{
   }
 
   img{
-    width: 50%;
+    width: 60%;
+  }
+
+  #lezioni > .row > .right >img{
+    width: 70%;
   }
 
   #lezioni .row > .left, #lezioni .row > .right{
